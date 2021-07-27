@@ -13,9 +13,9 @@
     At the end,  I connected python to my database and I filled a table with the values of my DataFrame</p>
   <p>For more details please open the data_cleaning.ipynb </p>
   
-  <h4>SQL (MySQL Workbench)</h4>
+  <h4>SQL (MySQL Workbench) :</h4>
   <p> Before the creation of the connection between Python and MySQL, I created a databse named google_apps and the table google_data</p>
   <p> For more details please open the project_database_and_table.sql </p>
   
-  <h4>Tableau</h4>
+  <h4>Tableau :</h4>
   Follow this <a href='https://public.tableau.com/app/profile/angelos/viz/GoogleApps_16274039429850/Report'> link </a> to check my visualizations.
