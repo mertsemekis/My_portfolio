@@ -15,7 +15,7 @@
   
   <h4>SQL (MySQL Workbench) :</h4>
   <p> Before the creation of the connection between Python and MySQL, I created a databse named google_apps and the table google_data</p>
-  <p> When I inserted the data to the table, at MySQL Workbench I exported the table as a csv file. I connected this file with Tableau. </p>
+  <p> I inserted the data to the table, at MySQL Workbench and I exported the table as a csv file. I connected this file with Tableau. </p>
   <p> For more details please open the project_database_and_table.sql </p>
   
   <h4>Tableau :</h4>
