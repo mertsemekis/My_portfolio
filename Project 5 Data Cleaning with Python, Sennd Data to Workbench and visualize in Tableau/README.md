@@ -8,14 +8,14 @@
   </ul>
   
   <h4>Python (Jupyter Notebook) :</h4>
-  <p> I took the data from the web with the request library and I created a csv file with them, named googleplaystore.csv. With this file I created a DataFrame and I examined the dataset info.
+  <p> I extracted the data from the web with the request library and I created a csv file with them, named googleplaystore.csv. With this file I created a DataFrame and I examined the dataset info.
     Afterwards, I cleaned the data filling the null values, renaming the columns and changing the datatypes. Moreover, I checked the correlation between the numerical and non numerical fields.
     At the end,  I connected python to my database and I filled a table with the values of my DataFrame</p>
   <p>For more details please open the data_cleaning.ipynb </p>
   
   <h4>SQL (MySQL Workbench) :</h4>
   <p> Before the creation of the connection between Python and MySQL, I created a databse named google_apps and the table google_data</p>
-  <p> When I inserted the data to the table, at MySQL Workbench I exported the table as a csv file. I connected this file with Tableau. </p>
+  <p> I inserted the data to the table, at MySQL Workbench and I exported the table as a csv file. I connected this file with Tableau. </p>
   <p> For more details please open the project_database_and_table.sql </p>
   
   <h4>Tableau :</h4>
