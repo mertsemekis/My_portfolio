@@ -1,4 +1,4 @@
-<h1>Google Data Analytics Capsrone_Project
+<h1>Google Data Analytics Capstone_Project
 </h1>
 
 <p> I completed the capstone project of this certificate using Python instead of R. </p>
